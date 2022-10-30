@@ -23,7 +23,9 @@ Each style contains 3 files:
 ![Left: **Dark**  Middle: **Light**  Right: **Transparent**](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20light%20color.png)
 
 ### Presentation on desktop:
-![Background Photo by <a href="https://unsplash.com/es/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20desktop.png)
+![Desktop](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20desktop.png)
+>Background Photo by <a href="https://unsplash.com/es/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 
 ### Pinned as tile on Windows 10:
 ![Light style in Light Mode](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20light%20Start%20Menu.png)
