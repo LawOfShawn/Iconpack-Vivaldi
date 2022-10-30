@@ -3,6 +3,8 @@ This is my first release. This pack of icons is inspired by
 > Raj Dev on freeicons.io : <https://freeicons.io/vector-and-svg-logos-icons-20/vivaldi-icon-9203>
 If any infringement, please contact.
 
+**WARNING: If you want to replace any original files, please backup in advance**
+
 ## Preview
 Please notice that:
 There are 3 styles varying slightly from each other.
@@ -13,3 +15,5 @@ Each style contains 3 files:
  
  Now let's see the files presented on different backgroud:
  
+### Presentation on dark color
+![Left: **Dark**  Middle: **Light**  Right: **Transparent**](Iconpack-Vivaldi/Images/Presentation%20on%20dark%20color.png)
