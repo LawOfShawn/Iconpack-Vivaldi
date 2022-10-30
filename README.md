@@ -30,6 +30,6 @@ Each style contains 3 files:
 ![Light style in Dark Mode](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20dark%20Start%20Menu.png)
 
 # Download
-Please go to the [release](https://github.com/LawOfShawn/Iconpack-Vivaldi/releases) page.
+Please go to the [THIS](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Vivaldi%20icons.zip) page and click **download**
 
 Thanks for your like ♥
