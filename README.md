@@ -1,6 +1,7 @@
 # Iconpack-Vivaldi
 This is my first release. This pack of icons is inspired by 
 > Raj Dev on freeicons.io : <https://freeicons.io/vector-and-svg-logos-icons-20/vivaldi-icon-9203>
+
 If any infringement, please contact.
 
 **WARNING: If you want to replace any original files, please backup in advance**
@@ -15,5 +16,20 @@ Each style contains 3 files:
  
  Now let's see the files presented on different backgroud:
  
-### Presentation on dark color
-![Left: **Dark**  Middle: **Light**  Right: **Transparent**](Iconpack-Vivaldi/Images/Presentation%20on%20dark%20color.png)
+### Presentation on dark color:
+![Left: **Dark**  Middle: **Light**  Right: **Transparent**](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20dark%20color.png)
+
+### Presentation on Light color:
+![Left: **Dark**  Middle: **Light**  Right: **Transparent**](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20light%20color.png)
+
+### Presentation on desktop:
+![Background Photo by <a href="https://unsplash.com/es/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20desktop.png)
+
+### Pinned as tile on Windows 10:
+![Light style in Light Mode](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20light%20Start%20Menu.png)
+![Light style in Dark Mode](https://github.com/LawOfShawn/Iconpack-Vivaldi/blob/main/Images/Presentation%20on%20dark%20Start%20Menu.png)
+
+# Download
+Please go to the [release](https://github.com/LawOfShawn/Iconpack-Vivaldi/releases) page.
+
+Thanks for your like ♥
